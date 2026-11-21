@@ -1,0 +1,1 @@
+{"info":{"info":"결투 타이머"},"0":{"0":{"_canvas":true,"origin":{"_x":16,"_y":29},"delay":30},"event":{"0":{"type":101,"state":1},"timeOut":120000}},"1":{"0":{"_canvas":true,"origin":{"_x":16,"_y":29},"delay":30},"event":{"0":{"type":101,"state":0},"timeOut":120000}},"action":"aquaris3"}

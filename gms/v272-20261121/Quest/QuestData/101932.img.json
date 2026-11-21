@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Shade] 1st Job Advancement","type":"[Job Advancement]","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"selfStart":1,"blocked":1,"category":"99|0"},"Check":{"0":{"startscript":"q101932s","lvmin":10,"job":{"0":2005}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

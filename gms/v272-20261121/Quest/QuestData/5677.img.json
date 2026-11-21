@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Event]Bounty Hunter Guide","area":50,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9201267,"start":"201408200000","end":"201409160000","startscript":"q5677s","lvmin":30,"normalAutoStart":1},"1":{"order":1}}}

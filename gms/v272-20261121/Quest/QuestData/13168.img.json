@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Miwok Rescue] Open the Rescue Log","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000097,"startscript":"q13168s","lvmin":13,"end":"201304240000","end_t":"201212060000","normalAutoStart":1},"1":{"npc":9000097,"order":1}}}

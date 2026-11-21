@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Nova Meso Pouch and Drop Rate","resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"category":"99|0"},"Check":{"0":{"npc":9010010,"end":"201807042359","end_t":"201807042359","worldList":{"0":51}},"1":{"npc":9010010,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

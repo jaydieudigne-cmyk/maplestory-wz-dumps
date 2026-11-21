@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Antellion Guardian","area":51,"medalCategory":1,"viewMedalItem":1142962,"resignBlocked":1,"autoStart":1,"autoAccept":1,"0":"..","1":"..","2":"..","category":"99|1"},"Check":{"0":{"npc":9010000,"item":{"0":{"id":1142962,"count":1,"order":1}},"startscript":"q61372s","normalAutoStart":1},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

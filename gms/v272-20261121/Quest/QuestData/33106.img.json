@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Talk to Lily","area":93,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtCompleteBalloon":1,"friendsStory":1,"reqType":8},"Check":{"0":{"npc":1530059,"startscript":"q33106s","QuestOrOption":1,"interval":0},"1":{"npc":1530050,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

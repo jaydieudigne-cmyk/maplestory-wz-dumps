@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Transfer Hammer Help","disableAtStartTab":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9010061,"startscript":"q14951s"},"1":{"order":1}}}

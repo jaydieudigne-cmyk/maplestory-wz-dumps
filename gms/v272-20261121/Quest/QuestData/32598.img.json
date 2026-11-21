@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Participate in Kritias Invasion!","area":87,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"autoCancel":1,"disableAtStartTab":1,"blocked":1},"Check":{"0":{"npc":2230203,"startscript":"q32598s","lvmin":170,"normalAutoStart":1,"quest":{"0":{"id":32524,"state":2,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

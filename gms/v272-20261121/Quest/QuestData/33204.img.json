@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Complete the Helmet","area":102,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"reqType":32},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1540664,"startscript":"q33204s","quest":{"0":{"id":33203,"state":2,"order":1}},"start":"201504080000"},"1":{"order":1}}}

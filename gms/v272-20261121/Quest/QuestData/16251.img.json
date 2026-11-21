@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Nova] Dragon Energy Records","resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"autoStart":1,"autoAccept":1,"category":"99|0"},"Check":{"0":{"npc":9001192,"lvmin":33,"end":"201708092359","end_t":"201707192359","normalAutoStart":1},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

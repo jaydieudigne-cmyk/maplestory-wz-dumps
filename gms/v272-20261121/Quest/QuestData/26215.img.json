@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Epic Dungeon] An Old Rival","area":248,"resignBlocked":1,"disableAtStartTab":1,"disableAtCompleteBalloon":1,"recommend":{"lvmin":260},"reqType":32},"Check":{"0":{"startscript":"q26215s","subJobFlags":15,"quest":{"0":{"id":26214,"state":2,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

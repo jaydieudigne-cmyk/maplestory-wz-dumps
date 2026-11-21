@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Chryse] The Way In","area":49,"showLayerTag":"31071","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"reqType":8},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"lvmin":75,"npc":2170016,"job":{"0":0}},"1":{"order":1}}}

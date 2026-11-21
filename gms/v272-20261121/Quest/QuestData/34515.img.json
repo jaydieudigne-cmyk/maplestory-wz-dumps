@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Maplerunner] It's Maplerunner!","area":119,"autoStart":1,"0":"What is Maplerunner?","1":"What is Maplerunner?","2":"What is Maplerunner?","blocked":1},"Check":{"0":{"npc":9070200,"startscript":"q34515s","normalAutoStart":1,"lvmin":33,"start":"2016071400"},"1":{"order":1,"npc":9070200}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

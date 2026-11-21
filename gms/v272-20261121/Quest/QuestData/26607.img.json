@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Name Change] Name Changing Guide","area":59,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtCompleteBalloon":1,"category":"3|1","recommend":{"except":{}}},"Check":{"0":{"npc":9062010,"startscript":"q26607s","lvmin":33},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

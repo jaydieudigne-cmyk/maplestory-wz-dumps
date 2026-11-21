@@ -1,0 +1,1 @@
+{"stand":{"0":{"_canvas":true,"origin":{"_x":0,"_y":0},"z":0,"delay":120}},"attack":{"info":{"damage":100,"type":0,"hit":{"0":{"_canvas":true,"origin":{"_x":0,"_y":0},"z":0,"delay":120}}},"0":{"_canvas":true,"origin":{"_x":0,"_y":0},"z":0,"delay":120,"lt":{"_x":-700,"_y":-600},"rb":{"_x":700,"_y":160}}}}

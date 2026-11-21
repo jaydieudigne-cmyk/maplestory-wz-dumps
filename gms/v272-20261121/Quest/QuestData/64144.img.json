@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[MONAD: The First Omen] Afinas","area":125,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"blocked":1,"category":"0|0"},"Check":{"0":{"npc":9400608,"quest":{"0":{"id":64143,"state":2,"order":1}}},"1":{"npc":9400608,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

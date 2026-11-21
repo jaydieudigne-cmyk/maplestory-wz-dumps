@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[World Leap] Changing Worlds","0":"Move to the world of your choice!","1":"Move to the world of your choice!","2":"Move to the world of your choice!","category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"lvmin":33,"startscript":"q14280s","npc":9000234,"end":"201312090000","end_t":"201312090000"},"1":{"order":1}}}

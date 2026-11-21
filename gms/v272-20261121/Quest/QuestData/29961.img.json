@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Dark Hero","area":51,"medalCategory":1,"viewMedalItem":1142344,"autoStart":1,"autoAccept":1,"2":"Dark Hero","autoPreComplete":1,"category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":2151009,"normalAutoStart":1,"item":{"0":{"id":1142344,"count":1,"order":1}}},"1":{"order":1}}}

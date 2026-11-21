@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[M-Day] M-Day的開始","area":50,"autoStart":1,"autoComplete":1,"0":"享受M-Day的優惠吧！！","1":"享受大家的M-Day優惠！","2":"享受M-Day的優惠吧！！"},"Check":{"0":{"npc":9010010,"startscript":"q66386s","lvmin":101,"normalAutoStart":1,"start":"202109290900","end":"202110192359"},"1":{"npc":9010010,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

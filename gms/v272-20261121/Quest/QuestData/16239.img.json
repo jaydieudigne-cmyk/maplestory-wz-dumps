@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Nova] Cadena Pre-Creation Event in progress!","disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"disableAtStartTab":1,"category":"99|0"},"Check":{"0":{"npc":9010010,"end":"201707042359","end_t":"201707042359","normalAutoStart":1,"lvmin":33,"startscript":"q16239s"},"1":{"order":1,"npc":9010010}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

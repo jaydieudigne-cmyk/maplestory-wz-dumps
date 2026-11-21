@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Event] Take on Zakum in Rock-Paper-Scissors!","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000247,"interval":0,"start":"201405140000","end":"201405280000"},"1":{"order":1}}}

@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Gelimer's Documents 2","area":102,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtCompleteBalloon":1,"reqType":32},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1540726,"startscript":"q33253s","quest":{"0":{"id":33252,"state":2,"order":1}},"start":"201504220000"},"1":{"order":1}}}

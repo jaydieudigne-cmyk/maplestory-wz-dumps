@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"For particle movement use - rain ","area":218,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"showLayerTag":"34769"},"Check":{"0":{"npc":9010000,"start":"201805090000","start_t":"201805090000"},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

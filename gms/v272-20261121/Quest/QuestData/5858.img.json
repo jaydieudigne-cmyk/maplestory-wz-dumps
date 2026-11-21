@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Cosmos Knockout] Operation:Cosmos Knockout!","area":50,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"disableAtStartTab":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9010010,"startscript":"q5858s","lvmin":30,"start":"201412030000","end":"201501070000","normalAutoStart":1},"1":{"order":1}}}

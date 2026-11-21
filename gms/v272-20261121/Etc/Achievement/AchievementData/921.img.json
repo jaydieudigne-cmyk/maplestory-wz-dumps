@@ -1,0 +1,1 @@
+{"info":{"mainCategory":"item","subCategory":"collection","name":"Check Tally","desc":"Check Tally","uiType":{"gauge":"submission_info","gaugeSubMission":"script"},"children":{"0":918,"1":919,"2":920},"block":"hide"},"mission":{"0":{"name":"Check Tally","subMission":{"script":{"score":{"targetScore":9223372036854775807,"compare":"greater_than_or_equal_to"},"checkValue":{}}}}}}

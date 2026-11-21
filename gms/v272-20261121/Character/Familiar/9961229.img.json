@@ -1,0 +1,1 @@
+{"info":{"range":160,"skill":{"id":806,"effectAfter":990},"FAttribute":"P","FCategory":6,"MobID":2700111},"move":{"link":"move"},"stand":{"link":"stand"},"fly":{"link":"move"},"jump":{"link":"move"},"attack":{"link":"attack1"},"skill":{"link":"attack2"}}

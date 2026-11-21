@@ -1,0 +1,1 @@
+{"info":{"version":10,"cloud":0,"town":0,"swim":0,"returnMap":910010500,"forcedReturn":910010500,"mobRate":1.0,"bgm":"Bgm11/DarkMountain","mapMark":"Quest","hideMinimap":0,"fieldLimit":336508,"link":"910010000","onFirstUserEnter":"moonrabbit_mapEnter","partyOnly":1,"fly":0,"noMapCmd":0,"onUserEnter":"moonrabbit_takeawayitem","fieldScript":"moonRabbit"}}

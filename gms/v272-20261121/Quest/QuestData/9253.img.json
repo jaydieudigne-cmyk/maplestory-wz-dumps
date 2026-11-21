@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"메이플 핸디월드","0":"메이플 핸디월드가 추가되었다고 한다. 페티트를 찾아가보자.","1":"메이플 핸디월드를 다운로드받았다.","2":"메이플 핸디월드를 다운로드받았다.","blocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"1":{"order":1},"0":{"npc":9010008,"startscript":"q9253s"}}}

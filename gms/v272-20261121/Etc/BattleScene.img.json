@@ -1,0 +1,1 @@
+{"9400080":{"0":{"info":"착지공격 event 설정","actionType":"ATTACK","actionIndex":6,"scriptHeader":"Attack1","triggerEventName":"trigger1","maxStep":10,"fixDamR":10},"1":{"info":"발톱공격 event 설정","actionType":"ATTACK","actionIndex":8,"scriptHeader":"Attack2","triggerEventName":"trigger2","maxStep":10,"fixDamR":10}}}

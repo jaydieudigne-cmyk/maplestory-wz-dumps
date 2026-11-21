@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Who are you?","area":269,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"category":"0|1","recommend":{"lvmin":190,"lvmax":199},"reqType":8},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":2155119,"startscript":"q39297s"},"1":{"order":1}}}

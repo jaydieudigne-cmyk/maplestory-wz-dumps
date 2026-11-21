@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Override] <Saturday Perk> Event Guide","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Check":{"0":{"npc":9001152,"start":"201706210000","end":"201707222359","normalAutoStart":1,"lvmin":33,"startscript":"q16044s"},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

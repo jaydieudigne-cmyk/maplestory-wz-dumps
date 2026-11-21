@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Discovery] Discovery Ocean Guide","autoStart":1,"disableAtNPC":1,"category":"99|0"},"Check":{"0":{"npc":9062020,"startscript":"q16614s","normalAutoStart":1,"end":"201802072359","end_t":"201802072359","quest":{"0":{"id":16551,"state":2,"order":1}}},"1":{"order":1,"npc":9062020}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

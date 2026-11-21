@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Get 300 Combo Kills","area":108,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"timeLimit2":1800,"disableAtNPC":1,"blocked":1},"Check":{"0":{"lvmin":33,"npc":9010000,"interval":0},"1":{"order":1,"comboKill":300,"npc":9010000}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

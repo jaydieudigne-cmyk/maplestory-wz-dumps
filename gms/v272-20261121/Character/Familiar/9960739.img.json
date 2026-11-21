@@ -1,0 +1,1 @@
+{"info":{"range":800,"skill":{"id":874,"effectAfter":1080},"FAttribute":"I","FCategory":0,"MobID":9400310},"stand":{"link":"stand"},"move":{"link":"move"},"fly":{"link":"move"},"attack":{"link":"attack1"},"skill":{"link":"attack1"},"jump":{"0":{"_canvas":true,"origin":{"_x":25,"_y":76},"head":{"_x":-3,"_y":-78},"_outlink":"Character/Familiar/_Canvas/9960728.img/jump/0"}}}

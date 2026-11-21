@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Speed Quiz","0":"I hear Cassandra has prepared a speed quiz in time for winter break.","1":".","2":"I should try again in a little bit!","category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"1":{"order":1},"0":{"npc":9010010,"startscript":"q9991s","lvmin":13,"end":"2008090500","interval":60}}}

@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Reborn Cygnus","area":77,"category":"0|2","autoStart":1,"autoAccept":1,"autoCancel":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"1":{"npc":1101000,"order":1},"0":{"npc":1101000,"startscript":"q2505s","normalAutoStart":1,"skill":{"0":{"id":74,"acquire":1}}}}}

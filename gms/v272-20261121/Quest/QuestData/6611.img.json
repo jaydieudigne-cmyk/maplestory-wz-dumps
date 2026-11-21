@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Teaching Hybrid Logic Link Skill","area":87,"blocked":1,"type":"[Skill]","autoStart":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9010023,"startscript":"q6611s","lvmin":70,"normalAutoStart":1,"job":{"0":3600,"1":3610,"2":3611,"3":3612,"4":3613,"5":3002}},"1":{"order":1}}}

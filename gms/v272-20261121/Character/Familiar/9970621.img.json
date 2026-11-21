@@ -1,0 +1,1 @@
+{"info":{"range":600,"MobID":9601982,"FAttribute":"N","FCategory":1,"collabo":1},"move":{"link":"move"},"stand":{"link":"stand"},"fly":{"link":"move"},"jump":{"link":"move"},"attack":{"link":"attack1"},"skill":{"link":"attack1"}}

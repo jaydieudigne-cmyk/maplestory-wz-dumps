@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Notice] Cash Inventory Transfer Event","resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000216,"startscript":"q26568s","lvmin":13,"normalAutoStart":1,"end":"201405230900","end_t":"201405070900"},"1":{"order":1}}}

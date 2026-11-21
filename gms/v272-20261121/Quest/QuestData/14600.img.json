@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Event] FIREPOWER Guild Goodies","disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":2010007,"startscript":"q14600s","lvmin":33,"start":"201507080000","end":"201509012359","normalAutoStart":1},"1":{"npc":2010007,"order":1}}}

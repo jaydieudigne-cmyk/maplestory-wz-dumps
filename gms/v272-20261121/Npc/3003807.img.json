@@ -1,0 +1,1 @@
+{"info":{"script":{"0":{"script":"maze_Helper"}},"speak":{"0":"n0","1":"n1"}},"stand":{"0":{"_canvas":true,"origin":{"_x":34,"_y":79},"a0":200,"a1":220,"delay":180,"_outlink":"Npc/_Canvas/3003805.img/stand/0"},"1":{"_canvas":true,"origin":{"_x":34,"_y":79},"a0":220,"a1":200,"delay":180,"_outlink":"Npc/_Canvas/3003805.img/stand/0"}}}

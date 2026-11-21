@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"New Collector","area":51,"medalCategory":4,"viewMedalItem":1142322,"autoStart":1,"autoAccept":1,"autoPreComplete":1,"0":"몬스터북 스코어 보상 훈장","1":"몬스터북 스코어 보상 훈장","2":"몬스터북 스코어 보상 훈장","category":"99|0"},"Check":{"0":{"npc":9010000,"item":{"0":{"id":1142322,"count":1,"order":1}},"normalAutoStart":1},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

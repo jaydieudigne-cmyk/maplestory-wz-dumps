@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Black Heaven] The Heart of the Machine","area":102,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"blocked":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1540650,"infoNumber":33200,"infoex":{"0":{"order":1,"value":"1","exVariable":"monoeye"}},"start":"201504080000"},"1":{"order":1}}}

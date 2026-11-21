@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Move to the Castle Rear Entrance","area":91,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"reqType":8},"Check":{"0":{"startscript":"q30075s","npc":1302007,"quest":{"0":{"id":30059,"state":2,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

@@ -1,0 +1,1 @@
+{"info":{"parentId":921,"mainCategory":"item","subCategory":"collection","name":"[Soul] Murgoth! I've Come to Trade","desc":"Craft 100 Souls","score":10,"uiType":{"gauge":"submission_info","gaugeSubMission":"script"}},"mission":{"0":{"name":"Craft 100 Souls","subMission":{"script":{"score":{"targetScore":100,"compare":"greater_than_or_equal_to"},"checkValue":{}}}}}}

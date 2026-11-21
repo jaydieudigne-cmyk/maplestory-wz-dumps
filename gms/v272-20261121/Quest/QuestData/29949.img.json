@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Maple Idol","area":51,"medalCategory":4,"viewMedalItem":1142300,"autoStart":1,"autoAccept":1,"2":"You have received a good score in Maple Idol.","autoPreComplete":1,"category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000066,"normalAutoStart":1,"item":{"0":{"id":1142300,"count":1,"order":1}}},"1":{"order":1}}}

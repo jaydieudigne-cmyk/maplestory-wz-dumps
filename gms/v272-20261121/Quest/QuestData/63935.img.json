@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Captain Vaga] Extracting Lapis","area":126,"0":"Rescue Lapis from the nest.","1":"Rescue Lapis from the nest.","2":"You got Lapis out of the nest alive!","disableAtStartTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"blocked":1,"category":"0|3"},"Check":{"0":{"npc":9400720},"1":{"npc":9400720}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

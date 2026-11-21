@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Ristonia 2","area":235,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"selfStart":1,"category":"0|2"},"Check":{"0":{"quest":{"0":{"id":39600,"order":1}},"job":{"0":15002}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

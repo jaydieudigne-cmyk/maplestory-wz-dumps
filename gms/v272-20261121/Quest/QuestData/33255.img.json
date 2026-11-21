@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Lab Light Switch","area":102,"resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtCompleteBalloon":1,"reqType":32},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1540728,"startscript":"q33255s","quest":{"0":{"id":33254,"state":2,"order":1}},"start":"201504220000"},"1":{"order":1}}}

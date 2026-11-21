@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Survivalism Instructions","disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000198,"startscript":"q13891s","lvmin":13,"end":"201311052359","normalAutoStart":1,"interval":0,"start":"201310230000"},"1":{"order":1}}}

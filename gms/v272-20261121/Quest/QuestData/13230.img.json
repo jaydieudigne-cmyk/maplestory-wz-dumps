@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Hero's Gauntlet] Achievements of Heroes","autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9000151,"startscript":"q13230s","lvmin":13,"normalAutoStart":1,"end":"201304240000","end_t":"201212100000"},"1":{"npc":9000151,"order":1}}}

@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Teaching Terms and Conditions Link","area":87,"blocked":1,"type":"[Skill]","autoStart":1},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9010023,"startscript":"q6610s","normalAutoStart":1,"lvmin":70,"job":{"0":6500,"1":6510,"2":6511,"3":6512,"4":6513,"5":6001}},"1":{"order":1}}}

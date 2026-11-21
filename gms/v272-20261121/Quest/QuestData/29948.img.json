@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Chryse Savior","area":51,"medalCategory":2,"viewMedalItem":1142259,"autoStart":1,"autoAccept":1,"2":"You have eliminated Xerxes and saved Chryse.","autoPreComplete":1,"category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"1":{"order":1},"0":{"npc":9000066,"normalAutoStart":1,"item":{"0":{"id":1142259,"count":1,"order":1}}}}}

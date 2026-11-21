@@ -1,0 +1,1 @@
+{"info":{"info":"Haunted Mirror","script":{"0":{"script":"npc_9062432"}},"talkMouseOnly":1,"hideName":1,"dcLeft":-50,"dcTop":-50,"dcRight":50,"dcBottom":50},"stand":{"0":{"_canvas":true,"origin":{"_x":0,"_y":0}}},"condition1":{"stand":{"0":{"_canvas":true,"origin":{"_x":0,"_y":0}}},"100690":{"0":{"key":"mirror","value":"0"}},"hide":1}}

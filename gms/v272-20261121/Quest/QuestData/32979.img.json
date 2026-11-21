@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Defeating Darklings","area":82,"1":"You'll have to defeat Darkling Bloon before you can collect what you need.","blocked":1},"Check":{"0":{"lvmin":100,"npc":2560110,"quest":{"0":{"id":32978,"state":2,"order":1}}},"1":{"order":1,"npc":2560110}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

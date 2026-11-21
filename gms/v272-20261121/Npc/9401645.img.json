@@ -1,0 +1,1 @@
+{"info":{"hideName":1,"talkMouseOnly":1,"dcRight":130,"dcLeft":"-129","dcTop":-336,"dcBottom":-1,"script":{"0":{"script":"npc_9401645"}},"default":{"_canvas":true,"origin":{"_x":46,"_y":57},"delay":150,"z":1,"_outlink":"Npc/_Canvas/9401645.img/info/default"}},"stand":{"0":{"_canvas":true,"origin":{"_x":85,"_y":399},"_outlink":"Npc/_Canvas/9401595.img/stand/0"}}}

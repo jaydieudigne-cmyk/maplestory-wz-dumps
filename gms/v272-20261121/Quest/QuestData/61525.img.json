@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Paint Slinger","area":51,"medalCategory":2,"viewMedalItem":1142605,"0":"Paint Slinger ","1":"Paint Slinger ","2":"Paint Slinger ","autoStart":1,"autoAccept":1,"category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"normalAutoStart":1,"npc":9010000,"startscript":"q61525s","item":{"0":{"id":1142605,"count":1,"order":1}}},"1":{"order":1}}}

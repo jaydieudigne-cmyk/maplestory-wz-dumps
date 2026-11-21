@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Try Using the Synergy Machine! ","disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":9010000,"startscript":"q7021s","start":"201208130000","end":"201208140000","start_t":"201208130000","end_t":"201209010000","normalAutoStart":1},"1":{"npc":9010000,"order":1}}}

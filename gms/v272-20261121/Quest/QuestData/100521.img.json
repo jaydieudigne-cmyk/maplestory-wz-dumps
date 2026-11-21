@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"For Meso Pouch Drop Control","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"resignBlocked":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"category":"99|0"},"Check":{"0":{"npc":9010010,"end":"202001152359","end_t":"202001152359"},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

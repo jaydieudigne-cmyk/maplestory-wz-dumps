@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Vanishing Journey] Folding a Paper Boat","area":207,"selfStart":1,"reqType":8},"Check":{"0":{"startscript":"q34176s","lvmin":200,"subJobFlags":15,"quest":{"0":{"id":34175,"state":1,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

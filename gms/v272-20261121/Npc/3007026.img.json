@@ -1,0 +1,1 @@
+{"info":{"script":{"0":{"script":"npc_3007026"}},"hide":1,"hideName":1,"dcTop":-200,"dcBottom":0,"dcRight":70,"dcLeft":-70},"stand":{"0":{"_canvas":true}},"condition2":{"102500":{"0":{"key":"26","value":"h0"}},"hide":1,"stand":{"_uol":"../stand"}},"condition3":{"102500":{"0":{"key":"26","value":"h1"}},"stand":{"_uol":"../stand"}}}

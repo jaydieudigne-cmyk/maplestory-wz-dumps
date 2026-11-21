@@ -1,0 +1,1 @@
+{"info":{"range":600,"MobID":8645291,"skill":{"id":808,"effectAfter":1260},"FAttribute":"F","FCategory":8,"monsterCardID":2881292,"pad":1,"pdd":1},"move":{"link":"move"},"stand":{"link":"stand"},"fly":{"link":"move"},"jump":{"link":"move"},"attack":{"link":"attack1"},"skill":{"link":"attack1"}}

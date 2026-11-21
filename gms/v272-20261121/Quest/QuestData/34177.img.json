@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Vanishing Journey] Paper Boat Flowing Upstream","area":207,"reqType":8},"Check":{"0":{"npc":3006900,"lvmin":200,"subJobFlags":15,"startscript":"q34177s","quest":{"0":{"id":34175,"state":2,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

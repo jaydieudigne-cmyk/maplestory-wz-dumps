@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Absolute Ring","area":51,"medalCategory":2,"viewMedalItem":1142631,"0":"Absolute Ring","1":"Absolute Ring","2":"Absolute Ring","autoStart":1,"autoAccept":1,"category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"normalAutoStart":1,"npc":9010000,"startscript":"q61523s","item":{"0":{"id":1142631,"count":1,"order":1}}},"1":{"order":1}}}

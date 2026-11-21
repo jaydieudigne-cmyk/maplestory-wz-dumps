@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Alishan Pride","area":51,"medalCategory":3,"viewMedalItem":1142901,"autoStart":1,"autoAccept":1,"2":"You recieved an Alishan medal for saving Alishan. ","category":"99|1"},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1061017,"startscript":"q61216s","normalAutoStart":1,"item":{"0":{"id":1142901,"count":1,"order":1}}},"1":{"order":1}}}

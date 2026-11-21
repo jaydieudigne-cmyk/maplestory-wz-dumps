@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Cleaning Robot OMNI-CLN!","area":38,"selectedMob":1,"disableAtStartTab":1,"resignBlocked":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"reqType":24},"Check":{"0":{"npc":2052006,"lvmin":180,"startscript":"q3499s","quest":{"0":{"id":3496,"state":2,"order":1}}},"1":{"npc":9030200,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

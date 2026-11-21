@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"Patrol Unit Ambush","area":102,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"reqType":32},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}},"Check":{"0":{"npc":1540502,"infoNumber":33200,"startscript":"q33210s","infoex":{"0":{"order":1,"value":"1","exVariable":"underAttack"}},"start":"201504080000"},"1":{"order":1}}}

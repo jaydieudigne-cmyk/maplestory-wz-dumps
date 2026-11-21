@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Festival] <Saturday Perk> Event Guide","disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1,"category":"99|0"},"Check":{"0":{"npc":9001152,"startscript":"q16111s","lvmin":33,"start":"201708090000","end":"201708270000","end_t":"201702252359","normalAutoStart":1},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

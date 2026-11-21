@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"The True Abyss","area":51,"autoStart":1,"autoAccept":1,"autoPreComplete":1,"medalCategory":2,"viewMedalItem":1143105,"0":"The True Abyss","1":"The True Abyss","2":"The True Abyss","category":"99|1"},"Check":{"0":{"npc":9010000,"normalAutoStart":1,"item":{"0":{"id":1143105,"count":1,"order":1}}},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

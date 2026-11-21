@@ -1,0 +1,1 @@
+{"info":{"speak":{"0":"n0","1":"n1","2":"d0","3":"d1"},"hide":1},"stand":{"0":{"_canvas":true,"origin":{"_x":23,"_y":79},"z":0,"_outlink":"Npc/_Canvas/1530062.img/stand/0"}},"condition1":{"stand":{"_uol":"../stand"},"32754":2},"condition2":{"stand":{"_uol":"../stand"},"hide":1,"32738":2},"condition3":{"stand":{"_uol":"../stand"},"32727":2}}

@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"The Quiet One","area":209,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"category":"0|3"},"Check":{"0":{"npc":9400159,"infoNumber":59997,"infoex":{"0":{"order":1,"value":"1","exVariable":"1"}},"startscript":"q59976s","lvmin":33},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

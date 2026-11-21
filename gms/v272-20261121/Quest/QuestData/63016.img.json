@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"헤네시스의 유령 보상","area":209,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"category":"0|3"},"Check":{"0":{"npc":9400151,"startscript":"q63016s","lvmin":33},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

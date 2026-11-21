@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[The Asura Crisis] A Secret Promise","area":137,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"category":"0|0"},"Check":{"0":{"npc":9130146,"quest":{"0":{"id":65833,"state":2,"order":1}},"startscript":"q65834s","lvmin":200,"notInTeleportItemLimitedField":1},"1":{"npc":9130146,"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

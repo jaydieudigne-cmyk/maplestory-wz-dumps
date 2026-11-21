@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Safe] Safe Ticket","resignBlocked":1,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"disableAtNPC":1,"disableAtCompleteBalloon":1,"category":"99|0"},"Check":{"0":{"npc":9063297,"quest":{"0":{"id":101910,"state":2,"order":1}},"end":"202407180000","end_t":"202407180000"},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}

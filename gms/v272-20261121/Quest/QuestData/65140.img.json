@@ -1,0 +1,1 @@
+{"QuestInfo":{"name":"[Bard] Where Do Balrogs Come From?","area":50,"disableAtStartTab":1,"disableAtPerformTab":1,"disableAtCompleteTab":1,"autoStart":1},"Check":{"0":{"npc":9270148,"infoNumber":65140,"infoex":{"0":{"order":1,"value":"on","exVariable":"start"}},"startscript":"q65140s","normalAutoStart":1},"1":{"order":1}},"Act":{"0":{},"1":{}},"Say":{"0":{},"1":{}}}
