@@ -13,6 +13,7 @@ JSON dumps of MapleStory client data files (`Data/*.wz` and `Data/Packs/*.ms`), 
 | `classic/1.1.0.0-20261030` | MapleStory Classic World | 1.1.0.0 | 2026-10-30 (no canvas properties) |
 | `classic/1.1.0.0-20261108` | MapleStory Classic World | 1.1.0.0 | 2026-11-08 |
 | `classic/1.1.0.0-20261118` | MapleStory Classic World | 1.1.0.0 (after the 2026-11-18 patch; exe version unchanged) | 2026-11-18 |
+| `classic/1.1.0.0-20261124` | MapleStory Classic World | 1.1.0.0 (after the 2026-11-24 minipatch; exe version unchanged) | 2026-11-24 |
 | `gms/v272-20261121` | Global MapleStory | 8.272.3.0 (v272) | 2026-11-21 |
 
 Each version folder has a `dump_log.txt` listing every source file, its WZ version and how many images were read.
